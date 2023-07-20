@@ -1,3 +1,6 @@
 [submodule "Reusable-Code"]
 	path = Reusable-Code
 	url = https://github.com/Exarilo/Reusable-Code.git
+[submodule "Tools/ExaOverlay"]
+	path = Tools/ExaOverlay
+	url = https://github.com/Exarilo/ExaOverlay.git
