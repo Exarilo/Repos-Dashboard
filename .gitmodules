@@ -4,3 +4,9 @@
 [submodule "Tools/ExaOverlay"]
 	path = Tools/ExaOverlay
 	url = https://github.com/Exarilo/ExaOverlay.git
+[submodule "Tools/CmdExtension"]
+	path = Tools/CmdExtension
+	url = https://github.com/Exarilo/CmdExtension.git
+[submodule "Tools/FileManager"]
+	path = Tools/FileManager
+	url = https://github.com/Exarilo/FileManager.git
