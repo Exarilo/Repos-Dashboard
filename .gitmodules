@@ -25,3 +25,9 @@
 [submodule "School/ProjetBibliotheque"]
 	path = School/ProjetBibliotheque
 	url = https://github.com/Exarilo/ProjetBibliotheque.git
+[submodule "Web/ExaWeb"]
+	path = Web/ExaWeb
+	url = https://github.com/Exarilo/ExaWeb.git
+[submodule "Web/cergy-api"]
+	path = Web/cergy-api
+	url = https://github.com/Exarilo/cergy-api.git
