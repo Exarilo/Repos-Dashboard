@@ -55,3 +55,6 @@
 [submodule "SocialNetworks/SocialNetworkScrapper"]
 	path = SocialNetworks/SocialNetworkScrapper
 	url = https://github.com/Exarilo/SocialNetworkScrapper.git
+[submodule "SocialNetworks/DiscordDialogPrettifier"]
+	path = SocialNetworks/DiscordDialogPrettifier
+	url = https://github.com/Exarilo/DiscordDialogPrettifier.git
