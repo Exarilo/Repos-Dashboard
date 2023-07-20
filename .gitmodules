@@ -73,3 +73,9 @@
 [submodule "Mobile/Zouples/ZouploCalculatrice"]
 	path = Mobile/Zouples/ZouploCalculatrice
 	url = https://github.com/Exarilo/ZouploCalculatrice.git
+[submodule "Mobile/CocktailMaker"]
+	path = Mobile/CocktailMaker
+	url = https://github.com/Exarilo/CocktailMaker.git
+[submodule "Mobile/MusicManager"]
+	path = Mobile/MusicManager
+	url = https://github.com/Exarilo/MusicManager.git
