@@ -61,3 +61,15 @@
 [submodule "SocialNetworks/DiscordSocialNetworks"]
 	path = SocialNetworks/DiscordSocialNetworks
 	url = https://github.com/Exarilo/DiscordSocialNetworks.git
+[submodule "Mobile/Zouples/Intro"]
+	path = Mobile/Zouples/Intro
+	url = https://github.com/Exarilo/Intro.git
+[submodule "Mobile/Zouples/TheWorldOfZouple"]
+	path = Mobile/Zouples/TheWorldOfZouple
+	url = https://github.com/Exarilo/TheWorldOfZouple.git
+[submodule "Mobile/Zouples/ZoupleAttackk"]
+	path = Mobile/Zouples/ZoupleAttackk
+	url = https://github.com/Exarilo/ZoupleAttackk.git
+[submodule "Mobile/Zouples/ZouploCalculatrice"]
+	path = Mobile/Zouples/ZouploCalculatrice
+	url = https://github.com/Exarilo/ZouploCalculatrice.git
