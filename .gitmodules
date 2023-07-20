@@ -31,3 +31,6 @@
 [submodule "Web/cergy-api"]
 	path = Web/cergy-api
 	url = https://github.com/Exarilo/cergy-api.git
+[submodule "Arduino/ArduinoCardGame"]
+	path = Arduino/ArduinoCardGame
+	url = https://github.com/Exarilo/ArduinoCardGame.git
