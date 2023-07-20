@@ -34,3 +34,21 @@
 [submodule "Arduino/ArduinoCardGame"]
 	path = Arduino/ArduinoCardGame
 	url = https://github.com/Exarilo/ArduinoCardGame.git
+[submodule "Arduino/ArduinoJoystick"]
+	path = Arduino/ArduinoJoystick
+	url = https://github.com/Exarilo/ArduinoJoystick.git
+[submodule "Games/UnkownGame"]
+	path = Games/UnkownGame
+	url = https://github.com/Exarilo/UnkownGame.git
+[submodule "Games/WindowsExpender"]
+	path = Games/WindowsExpender
+	url = https://github.com/Exarilo/WindowsExpender.git
+[submodule "Games/idle"]
+	path = Games/idle
+	url = https://github.com/Exarilo/idle.git
+[submodule "Games/PygameTest"]
+	path = Games/PygameTest
+	url = https://github.com/Exarilo/PygameTest.git
+[submodule "Games/DofusHelperOCR"]
+	path = Games/DofusHelperOCR
+	url = https://github.com/Exarilo/DofusHelperOCR.git
