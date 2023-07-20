@@ -58,3 +58,6 @@
 [submodule "SocialNetworks/DiscordDialogPrettifier"]
 	path = SocialNetworks/DiscordDialogPrettifier
 	url = https://github.com/Exarilo/DiscordDialogPrettifier.git
+[submodule "SocialNetworks/DiscordSocialNetworks"]
+	path = SocialNetworks/DiscordSocialNetworks
+	url = https://github.com/Exarilo/DiscordSocialNetworks.git
