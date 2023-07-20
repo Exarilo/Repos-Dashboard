@@ -10,3 +10,12 @@
 [submodule "Tools/FileManager"]
 	path = Tools/FileManager
 	url = https://github.com/Exarilo/FileManager.git
+[submodule "School/Projet-Parle"]
+	path = School/Projet-Parle
+	url = https://github.com/Exarilo/Projet-Parle.git
+[submodule "School/QuizzReact"]
+	path = School/QuizzReact
+	url = https://github.com/Exarilo/QuizzReact.git
+[submodule "School/Cours"]
+	path = School/Cours
+	url = https://github.com/Exarilo/Cours.git
