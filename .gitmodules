@@ -52,3 +52,6 @@
 [submodule "Games/DofusHelperOCR"]
 	path = Games/DofusHelperOCR
 	url = https://github.com/Exarilo/DofusHelperOCR.git
+[submodule "SocialNetworks/SocialNetworkScrapper"]
+	path = SocialNetworks/SocialNetworkScrapper
+	url = https://github.com/Exarilo/SocialNetworkScrapper.git
