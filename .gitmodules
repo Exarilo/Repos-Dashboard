@@ -19,3 +19,9 @@
 [submodule "School/Cours"]
 	path = School/Cours
 	url = https://github.com/Exarilo/Cours.git
+[submodule "School/Calcoolator"]
+	path = School/Calcoolator
+	url = https://github.com/Exarilo/Calcoolator.git
+[submodule "School/ProjetBibliotheque"]
+	path = School/ProjetBibliotheque
+	url = https://github.com/Exarilo/ProjetBibliotheque.git
