@@ -79,3 +79,6 @@
 [submodule "Mobile/MusicManager"]
 	path = Mobile/MusicManager
 	url = https://github.com/Exarilo/MusicManager.git
+[submodule "CodeArduino"]
+	path = CodeArduino
+	url = https://github.com/Exarilo/CodeArduino
