@@ -81,4 +81,4 @@
 	url = https://github.com/Exarilo/MusicManager.git
 [submodule "CodeArduino"]
 	path = CodeArduino
-	url = https://github.com/Exarilo/CodeArduino
+	url = https://github.com/Exarilo/Arduino/CodeArduino
