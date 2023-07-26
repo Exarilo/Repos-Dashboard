@@ -82,3 +82,6 @@
 [submodule "CodeArduino"]
 	path = CodeArduino
 	url = https://github.com/Exarilo/Arduino/CodeArduino
+[submodule "Arduino/CodeArduino"]
+	path = Arduino/CodeArduino
+	url = https://github.com/Exarilo/CodeArduino
