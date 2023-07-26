@@ -21,6 +21,14 @@
 - Arduino
     - ArduinoCardGame (**private**)
     - ArduinoJoystick (**private**)
+    - CodeArduino
+       - Button (**public**) 
+       - HttpServer (**public**)
+       - SpotifyClientCredentials (**public**)
+       - SpotifyCodeFlow (**public**)
+       - TTGO-TWatch (**public**)
+       - TelegramSendMessage (**public**)
+
 
 - Games
     - UnkownGame (**public**)
