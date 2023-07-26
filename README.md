@@ -2,48 +2,48 @@
  Repos-Dashboard is a centralized repository containing links and summaries of all my GitHub repositories, providing a convenient way to access and explore my projects effortlessly
 
 # Repos-Dashboard
- Repos-Dashboard is a centralized repository containing links and summaries of all my GitHub repositories, providing a convenient way to access and explore my projects effortlessly
+ Repos-Dashboard is a centralized repository containing links and summaries of all my GitHub repositories, providing a convenient way to access and explore my projects effortlessly. Private Git repositories are inaccessible to the public. If you try to access one, you'll encounter a 404 error (GitHub not found).
 
-Reusable-Code
-School
-	-Projet-Parle
-	-ProjetBibliotheque
-	-QuizzReact
-	-Cours
-	-Calcoolator
+- Reusable-Code
+- School
+    - Projet-Parle (private)
+    - ProjetBibliotheque (public)
+    - QuizzReact (public)
+    - Cours (private)
+    - Calcoolator (private)
 
-Tools
-	-ExaOverlay
-	-CmdExtension
-	-FileManager 
+- Tools
+    - ExaOverlay (private)
+    - CmdExtension (public)
+    - FileManager (private)
 
-Web
-	-ExaWeb
-	-cergy-api
+- Web
+    - ExaWeb (private)
+    - cergy-api (private)
 
-Arduino
-	-ArduinoCardGame
-	-ArduinoJoystick
+- Arduino
+    - ArduinoCardGame (private)
+    - ArduinoJoystick (private)
 
-Games
-	-UnkownGame 
-	-WindowsExpender
-	-idle
-	-PygameTest
-	-DofusHelperOCR
+- Games
+    - UnkownGame (public)
+    - WindowsExpender (public)
+    - idle (public)
+    - PygameTest (public)
+    - DofusHelperOCR (public)
 
-SocialNetwork
-	-DiscordDialogPrettifier
- 	-DiscordSocialNetwork
-	-SocialNetworkScrapper
+- SocialNetwork
+    - DiscordDialogPrettifier (private)
+    - DiscordSocialNetwork (private)
+    - SocialNetworkScrapper (private)
 
-Mobile
-	-Zouples
-		-ZouploReveil
-		-Intro
-		-TheWorldOfZouple
-		-ZoupleAttackk
-		-ZouploCalculatrice 
-	-CocktailMaker
-	-MusicManager
+- Mobile
+    - Zouples
+        - ZouploReveil (public)
+        - Intro (public)
+        - TheWorldOfZouple (public)
+        - ZoupleAttackk (public)
+        - ZouploCalculatrice (public)
+    - CocktailMaker (public)
+    - MusicManager (private)
 
