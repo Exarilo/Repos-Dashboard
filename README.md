@@ -4,7 +4,7 @@
 # Repos-Dashboard
  Repos-Dashboard is a centralized repository containing links and summaries of all my GitHub repositories, providing a convenient way to access and explore my projects effortlessly. Private Git repositories are inaccessible to the public. If you try to access one, you'll encounter a 404 error (GitHub not found).
 
-- Reusable-Code
+- Reusable-Code (public)
 - School
     - Projet-Parle (private)
     - ProjetBibliotheque (public)
